@@ -1,6 +1,7 @@
 ## Interface: 110105
 ## Title: Bountiful Delves Helper
 ## Notes: Bountiful Delves Helper
+## Notes-ruRU: Помощник по Многообещающим Вылазкам
 ## Author: Menelitos
 ## Version: 1.2.5
 ## SavedVariablesPerCharacter: BountifulDelvesHelperDB, BountifulDelvesHelperIconDB
